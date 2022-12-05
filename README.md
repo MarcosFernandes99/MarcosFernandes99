@@ -1,9 +1,8 @@
 - 👋 Olá, eu sou o Marcoos, tenho 28 anos de idade, sou apaixonado por este universo da tecnologia, é o que eu faço de melhor!
 
 - 🌱 No meu tempo livre gosto de aproveitar cada segundo com a minha família e as vezes jogar um futebol.
-- 🎓 Sou aluno do curso de front-end da Flit, com conclusão prevista para 02/2023.
+- 🎓 Sou aluno do curso de Front-End da Flit, com conclusão prevista para 02/2023.
 - 📫 Atualmente estou morando na cidade de São Paulo/SP.
-
 
 
 Linguagens:
