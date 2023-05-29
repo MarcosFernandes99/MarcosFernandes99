@@ -25,6 +25,7 @@
  ### Estou estudando
  <div style="display: inline-block"><br>
   <img align="center" alt="Marcos Angular" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
+  <img align="center" alt="Marcos Python" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 </div>
 
 ##
