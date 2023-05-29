@@ -1,9 +1,14 @@
 ### Olá, me chamo Marcos!
 
+- 😁 Tenho 28 anos
+- 📫 Atualmente moro na cidade de São Paulo/SP
 - 🔭 Hoje trabalho com Front-End
+- 📢 Contate-me: marcos_fernandes94@hotmail.com
+
 <div>
 <a href="https://github.com/MarcosFernandes99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFernandes99&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFernandes99&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFernandes99&theme=highcontrast"/>
 </div>
   
 ##
@@ -11,10 +16,15 @@
 ### Ferramentas e Tecnologias  
 <div style="display: inline-block"><br>
   <img align="center" alt="Marcos Java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <img align="center" alt="Marcos Java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
-  <img align="center" alt="Marcos Java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
-  <img align="center" alt="Marcos Java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
-  <img align="center" alt="Marcos Java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+  <img align="center" alt="Marcos Type" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+  <img align="center" alt="Marcos CSS" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+  <img align="center" alt="Marcos HTML" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
+  <img align="center" alt="Marcos React" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+</div>
+  
+ ### Estou estudando
+ <div style="display: inline-block"><br>
+  <img align="center" alt="Marcos Angular" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
 </div>
 
 ##
