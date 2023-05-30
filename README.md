@@ -5,7 +5,11 @@
 - 🔭 Hoje trabalho com Front-End
 - 📢 Contate-me: marcos_fernandes94@hotmail.com
 
-
+<div>
+<a href="https://github.com/MarcosFernandes99">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosFernandes99&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosFernandes99&theme=highcontrast"/>
+</div>
   
 ##
   
