@@ -5,12 +5,6 @@
 - 🔭 Hoje trabalho com Front-End
 - 📢 Contate-me: marcos_fernandes94@hotmail.com
 
-<div>
-<a href="https://github.com/MarcosFernandes99">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosFernandes99&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosFernandes99&theme=highcontrast"/>
-</div>
-  
 ##
   
 ### Ferramentas e Tecnologias: 
@@ -23,7 +17,6 @@
   <img align="center" alt="Marcos CSS" height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   <img align="center" alt="Marcos Sass" height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
   <img align="center" alt="Marcos Tailwind CSS" height="250" wight="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" >
-  
 </div>
   
 ##  
